@@ -1,4 +1,4 @@
-# WGU_C867_Project
+# WGU_C867_ClassRosterProject
 
 C++, Microsoft Visual Studio
 
